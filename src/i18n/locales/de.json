@@ -1,0 +1,241 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "catalog": "Katalog",
+    "about": "Über uns",
+    "notifications": "Benachrichtigungen",
+    "account": "Konto",
+    "admin": "Admin",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "logout": "Abmelden"
+  },
+  "home": {
+    "hero": {
+      "title": "Die Zukunft der Musiklizenzierung",
+      "subtitle": "Entdecken, bieten und lizenzieren Sie Premium-Musikinhalte von Top-Künstlern und Produzenten weltweit über unsere sichere Auktionsplattform.",
+      "cta": "Katalog erkunden",
+      "secondary_cta": "Mehr erfahren"
+    },
+    "features": {
+      "title": "Warum unsere Plattform wählen",
+      "realtime": {
+        "title": "Echtzeit-Bieten",
+        "description": "Nehmen Sie an Live-Auktionen mit sofortigen Updates und wettbewerbsfähigen Geboten teil."
+      },
+      "secure": {
+        "title": "Sichere Transaktionen",
+        "description": "Geschützte Zahlungen und Rechteverwaltung mit Treuhandsystem."
+      },
+      "global": {
+        "title": "Globaler Marktplatz",
+        "description": "Verbinden Sie sich mit Künstlern, Labels und Käufern aus der ganzen Welt."
+      }
+    },
+    "stats": {
+      "songs": "Verfügbare Songs",
+      "artists": "Aktive Künstler",
+      "sales": "Erfolgreiche Verkäufe",
+      "countries": "Länder"
+    }
+  },
+  "catalog": {
+    "title": "Musik-Katalog",
+    "search_placeholder": "Songs, Genres, Stimmungen suchen...",
+    "filters": {
+      "genre": "Genre",
+      "mood": "Stimmung",
+      "language": "Sprache",
+      "duration": "Dauer",
+      "price_range": "Preisbereich",
+      "sort_by": "Sortieren nach",
+      "clear_filters": "Filter löschen"
+    },
+    "genres": {
+      "pop": "Pop",
+      "rock": "Rock",
+      "jazz": "Jazz",
+      "classical": "Klassik",
+      "electronic": "Elektronisch",
+      "hip_hop": "Hip Hop",
+      "country": "Country",
+      "blues": "Blues"
+    },
+    "moods": {
+      "energetic": "Energisch",
+      "calm": "Ruhig",
+      "dramatic": "Dramatisch",
+      "romantic": "Romantisch",
+      "mysterious": "Geheimnisvoll",
+      "uplifting": "Erhebend"
+    },
+    "sort_options": {
+      "price_low": "Preis: Niedrig zu Hoch",
+      "price_high": "Preis: Hoch zu Niedrig",
+      "newest": "Neueste zuerst",
+      "popular": "Beliebteste"
+    },
+    "song_card": {
+      "current_bid": "Aktuelles Gebot",
+      "time_left": "Verbleibende Zeit",
+      "bids": "Gebote",
+      "view_auction": "Auktion ansehen"
+    }
+  },
+  "song": {
+    "title": "Song-Auktion",
+    "current_bid": "Aktuelles Gebot",
+    "your_bid": "Ihr Gebot",
+    "place_bid": "Gebot abgeben",
+    "time_remaining": "Verbleibende Zeit",
+    "bid_history": "Gebotsverlauf",
+    "song_info": "Song-Informationen",
+    "artist": "Künstler",
+    "genre": "Genre",
+    "duration": "Dauer",
+    "language": "Sprache",
+    "mood": "Stimmung",
+    "description": "Beschreibung",
+    "license_type": "Lizenztyp",
+    "usage_rights": "Nutzungsrechte",
+    "stats": {
+      "total_bids": "Gesamte Gebote",
+      "avg_increase": "Durchschnittliche Steigerung",
+      "unique_bidders": "Einzigartige Bieter",
+      "time_remaining": "Verbleibende Zeit"
+    },
+    "time_filters": {
+      "1h": "1 Stunde",
+      "6h": "6 Stunden",
+      "24h": "24 Stunden",
+      "all": "Alle Zeit"
+    }
+  },
+  "account": {
+    "title": "Persönliches Konto",
+    "tabs": {
+      "bids": "Meine Gebote",
+      "purchases": "Meine Käufe",
+      "lots": "Meine Lose",
+      "settings": "Einstellungen"
+    },
+    "profile": {
+      "rating": "Bewertung",
+      "total_bids": "Gesamte Gebote",
+      "successful_purchases": "Erfolgreiche Käufe",
+      "active_lots": "Aktive Lose",
+      "escrow_status": "Treuhand-Status",
+      "normal": "Normal",
+      "escrow": "Treuhand-Modus"
+    },
+    "settings": {
+      "language": "Sprache",
+      "notifications": "Benachrichtigungen",
+      "password": "Passwort ändern",
+      "current_password": "Aktuelles Passwort",
+      "new_password": "Neues Passwort",
+      "confirm_password": "Passwort bestätigen",
+      "save_changes": "Änderungen speichern"
+    }
+  },
+  "about": {
+    "title": "Über das Projekt",
+    "mission": {
+      "title": "Unsere Mission",
+      "description": "Wir revolutionieren die Musiklizenzierungsbranche, indem wir einen transparenten, sicheren und effizienten Marktplatz schaffen, auf dem Künstler, Labels und Content-Ersteller direkt miteinander verbunden werden können."
+    },
+    "how_it_works": {
+      "title": "Wie es funktioniert",
+      "step1": {
+        "title": "Katalog durchsuchen",
+        "description": "Erkunden Sie unsere umfangreiche Sammlung von Musik talentierter Künstler weltweit."
+      },
+      "step2": {
+        "title": "Gebote abgeben",
+        "description": "Nehmen Sie an Echtzeit-Auktionen teil, um sich die Rechte an Ihren Lieblingstiteln zu sichern."
+      },
+      "step3": {
+        "title": "Lizenz sichern",
+        "description": "Schließen Sie Ihren Kauf über unser sicheres Treuhandsystem ab und erhalten Sie vollständige Lizenzrechte."
+      }
+    },
+    "contact": {
+      "title": "Kontaktinformationen",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "address": "Adresse"
+    }
+  },
+  "notifications": {
+    "title": "Benachrichtigungen",
+    "filters": {
+      "all": "Alle",
+      "bids": "Gebote",
+      "purchases": "Käufe",
+      "system": "System"
+    },
+    "mark_all_read": "Alle als gelesen markieren",
+    "no_notifications": "Noch keine Benachrichtigungen"
+  },
+  "admin": {
+    "title": "Verwaltungspanel",
+    "tabs": {
+      "users": "Benutzerverwaltung",
+      "auctions": "Auktionsüberwachung",
+      "reports": "Berichte",
+      "moderation": "Moderation"
+    },
+    "users": {
+      "total_users": "Gesamte Benutzer",
+      "active_users": "Aktive Benutzer",
+      "escrow_users": "Benutzer im Treuhand",
+      "banned_users": "Gesperrte Benutzer",
+      "actions": {
+        "ban": "Benutzer sperren",
+        "escrow": "In Treuhand verschieben",
+        "unban": "Benutzer entsperren",
+        "normal": "Zu Normal zurückkehren"
+      }
+    },
+    "auctions": {
+      "active_auctions": "Aktive Auktionen",
+      "completed_today": "Heute abgeschlossen",
+      "total_revenue": "Gesamtumsatz",
+      "avg_sale_price": "Durchschnittlicher Verkaufspreis"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Datenschutzrichtlinie",
+      "content": "Diese Datenschutzrichtlinie erklärt, wie wir Ihre persönlichen Informationen sammeln, verwenden und schützen, wenn Sie unsere Musik-Auktionsplattform nutzen."
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen",
+      "content": "Durch die Nutzung unserer Plattform stimmen Sie diesen Geschäftsbedingungen zu, die Ihre Nutzung unserer Musik-Auktionsdienste regeln."
+    },
+    "offer": {
+      "title": "Öffentliches Angebot",
+      "content": "Dieses öffentliche Angebot beschreibt die Bedingungen, unter denen wir unsere Musiklizenzierungs- und Auktionsdienste den Benutzern anbieten."
+    }
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "view": "Ansehen",
+    "close": "Schließen",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "search": "Suchen",
+    "filter": "Filter",
+    "sort": "Sortieren",
+    "clear": "Löschen",
+    "apply": "Anwenden",
+    "reset": "Zurücksetzen"
+  }
+}

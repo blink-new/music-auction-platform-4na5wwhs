@@ -1,0 +1,241 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "catalog": "Catalogue",
+    "about": "À propos",
+    "notifications": "Notifications",
+    "account": "Compte",
+    "admin": "Admin",
+    "login": "Se connecter",
+    "register": "S'inscrire",
+    "logout": "Se déconnecter"
+  },
+  "home": {
+    "hero": {
+      "title": "L'Avenir des Licences Musicales",
+      "subtitle": "Découvrez, enchérissez et licenciez du contenu musical premium d'artistes et producteurs de premier plan dans le monde entier grâce à notre plateforme d'enchères sécurisée.",
+      "cta": "Explorer le Catalogue",
+      "secondary_cta": "En Savoir Plus"
+    },
+    "features": {
+      "title": "Pourquoi Choisir Notre Plateforme",
+      "realtime": {
+        "title": "Enchères en Temps Réel",
+        "description": "Participez à des enchères en direct avec des mises à jour instantanées et des offres compétitives."
+      },
+      "secure": {
+        "title": "Transactions Sécurisées",
+        "description": "Paiements protégés et gestion des droits avec système d'entiercement."
+      },
+      "global": {
+        "title": "Marché Global",
+        "description": "Connectez-vous avec des artistes, labels et acheteurs du monde entier."
+      }
+    },
+    "stats": {
+      "songs": "Chansons Disponibles",
+      "artists": "Artistes Actifs",
+      "sales": "Ventes Réussies",
+      "countries": "Pays"
+    }
+  },
+  "catalog": {
+    "title": "Catalogue Musical",
+    "search_placeholder": "Rechercher chansons, genres, ambiances...",
+    "filters": {
+      "genre": "Genre",
+      "mood": "Ambiance",
+      "language": "Langue",
+      "duration": "Durée",
+      "price_range": "Gamme de Prix",
+      "sort_by": "Trier par",
+      "clear_filters": "Effacer les Filtres"
+    },
+    "genres": {
+      "pop": "Pop",
+      "rock": "Rock",
+      "jazz": "Jazz",
+      "classical": "Classique",
+      "electronic": "Électronique",
+      "hip_hop": "Hip Hop",
+      "country": "Country",
+      "blues": "Blues"
+    },
+    "moods": {
+      "energetic": "Énergique",
+      "calm": "Calme",
+      "dramatic": "Dramatique",
+      "romantic": "Romantique",
+      "mysterious": "Mystérieux",
+      "uplifting": "Inspirant"
+    },
+    "sort_options": {
+      "price_low": "Prix : Croissant",
+      "price_high": "Prix : Décroissant",
+      "newest": "Plus Récents",
+      "popular": "Plus Populaires"
+    },
+    "song_card": {
+      "current_bid": "Enchère Actuelle",
+      "time_left": "Temps Restant",
+      "bids": "enchères",
+      "view_auction": "Voir l'Enchère"
+    }
+  },
+  "song": {
+    "title": "Enchère de Chanson",
+    "current_bid": "Enchère Actuelle",
+    "your_bid": "Votre Enchère",
+    "place_bid": "Placer une Enchère",
+    "time_remaining": "Temps Restant",
+    "bid_history": "Historique des Enchères",
+    "song_info": "Informations sur la Chanson",
+    "artist": "Artiste",
+    "genre": "Genre",
+    "duration": "Durée",
+    "language": "Langue",
+    "mood": "Ambiance",
+    "description": "Description",
+    "license_type": "Type de Licence",
+    "usage_rights": "Droits d'Usage",
+    "stats": {
+      "total_bids": "Total des Enchères",
+      "avg_increase": "Augmentation Moyenne",
+      "unique_bidders": "Enchérisseurs Uniques",
+      "time_remaining": "Temps Restant"
+    },
+    "time_filters": {
+      "1h": "1 Heure",
+      "6h": "6 Heures",
+      "24h": "24 Heures",
+      "all": "Tout le Temps"
+    }
+  },
+  "account": {
+    "title": "Compte Personnel",
+    "tabs": {
+      "bids": "Mes Enchères",
+      "purchases": "Mes Achats",
+      "lots": "Mes Lots",
+      "settings": "Paramètres"
+    },
+    "profile": {
+      "rating": "Évaluation",
+      "total_bids": "Total des Enchères",
+      "successful_purchases": "Achats Réussis",
+      "active_lots": "Lots Actifs",
+      "escrow_status": "Statut d'Entiercement",
+      "normal": "Normal",
+      "escrow": "Mode Entiercement"
+    },
+    "settings": {
+      "language": "Langue",
+      "notifications": "Notifications",
+      "password": "Changer le Mot de Passe",
+      "current_password": "Mot de Passe Actuel",
+      "new_password": "Nouveau Mot de Passe",
+      "confirm_password": "Confirmer le Mot de Passe",
+      "save_changes": "Sauvegarder les Modifications"
+    }
+  },
+  "about": {
+    "title": "À Propos du Projet",
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Nous révolutionnons l'industrie des licences musicales en créant un marché transparent, sécurisé et efficace où les artistes, labels et créateurs de contenu peuvent se connecter directement."
+    },
+    "how_it_works": {
+      "title": "Comment Ça Marche",
+      "step1": {
+        "title": "Parcourir le Catalogue",
+        "description": "Explorez notre vaste collection de musique d'artistes talentueux du monde entier."
+      },
+      "step2": {
+        "title": "Placer des Enchères",
+        "description": "Participez à des enchères en temps réel pour sécuriser les droits de vos pistes préférées."
+      },
+      "step3": {
+        "title": "Sécuriser la Licence",
+        "description": "Complétez votre achat via notre système d'entiercement sécurisé et recevez les droits de licence complets."
+      }
+    },
+    "contact": {
+      "title": "Informations de Contact",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "address": "Adresse"
+    }
+  },
+  "notifications": {
+    "title": "Notifications",
+    "filters": {
+      "all": "Toutes",
+      "bids": "Enchères",
+      "purchases": "Achats",
+      "system": "Système"
+    },
+    "mark_all_read": "Marquer Toutes comme Lues",
+    "no_notifications": "Aucune notification pour le moment"
+  },
+  "admin": {
+    "title": "Panneau Administratif",
+    "tabs": {
+      "users": "Gestion des Utilisateurs",
+      "auctions": "Surveillance des Enchères",
+      "reports": "Rapports",
+      "moderation": "Modération"
+    },
+    "users": {
+      "total_users": "Total des Utilisateurs",
+      "active_users": "Utilisateurs Actifs",
+      "escrow_users": "Utilisateurs en Entiercement",
+      "banned_users": "Utilisateurs Bannis",
+      "actions": {
+        "ban": "Bannir l'Utilisateur",
+        "escrow": "Déplacer vers l'Entiercement",
+        "unban": "Débannir l'Utilisateur",
+        "normal": "Retourner à la Normale"
+      }
+    },
+    "auctions": {
+      "active_auctions": "Enchères Actives",
+      "completed_today": "Terminées Aujourd'hui",
+      "total_revenue": "Revenus Totaux",
+      "avg_sale_price": "Prix de Vente Moyen"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Politique de Confidentialité",
+      "content": "Cette politique de confidentialité explique comment nous collectons, utilisons et protégeons vos informations personnelles lorsque vous utilisez notre plateforme d'enchères musicales."
+    },
+    "terms": {
+      "title": "Conditions de Service",
+      "content": "En utilisant notre plateforme, vous acceptez ces termes et conditions qui régissent votre utilisation de nos services d'enchères musicales."
+    },
+    "offer": {
+      "title": "Offre Publique",
+      "content": "Cette offre publique décrit les termes sous lesquels nous fournissons nos services de licences musicales et d'enchères aux utilisateurs."
+    }
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "save": "Sauvegarder",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "view": "Voir",
+    "close": "Fermer",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "clear": "Effacer",
+    "apply": "Appliquer",
+    "reset": "Réinitialiser"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "catalog": "Catálogo",
+    "about": "Acerca de",
+    "notifications": "Notificaciones",
+    "account": "Cuenta",
+    "admin": "Admin",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión"
+  },
+  "home": {
+    "hero": {
+      "title": "El Futuro de las Licencias Musicales",
+      "subtitle": "Descubre, puja y licencia contenido musical premium de los mejores artistas y productores del mundo a través de nuestra plataforma de subastas segura.",
+      "cta": "Explorar Catálogo",
+      "secondary_cta": "Saber Más"
+    },
+    "features": {
+      "title": "Por Qué Elegir Nuestra Plataforma",
+      "realtime": {
+        "title": "Pujas en Tiempo Real",
+        "description": "Participa en subastas en vivo con actualizaciones instantáneas y pujas competitivas."
+      },
+      "secure": {
+        "title": "Transacciones Seguras",
+        "description": "Pagos protegidos y gestión de derechos con sistema de depósito en garantía."
+      },
+      "global": {
+        "title": "Mercado Global",
+        "description": "Conecta con artistas, sellos discográficos y compradores de todo el mundo."
+      }
+    },
+    "stats": {
+      "songs": "Canciones Disponibles",
+      "artists": "Artistas Activos",
+      "sales": "Ventas Exitosas",
+      "countries": "Países"
+    }
+  },
+  "catalog": {
+    "title": "Catálogo Musical",
+    "search_placeholder": "Buscar canciones, géneros, estados de ánimo...",
+    "filters": {
+      "genre": "Género",
+      "mood": "Estado de Ánimo",
+      "language": "Idioma",
+      "duration": "Duración",
+      "price_range": "Rango de Precio",
+      "sort_by": "Ordenar por",
+      "clear_filters": "Limpiar Filtros"
+    },
+    "genres": {
+      "pop": "Pop",
+      "rock": "Rock",
+      "jazz": "Jazz",
+      "classical": "Clásica",
+      "electronic": "Electrónica",
+      "hip_hop": "Hip Hop",
+      "country": "Country",
+      "blues": "Blues"
+    },
+    "moods": {
+      "energetic": "Energético",
+      "calm": "Tranquilo",
+      "dramatic": "Dramático",
+      "romantic": "Romántico",
+      "mysterious": "Misterioso",
+      "uplifting": "Inspirador"
+    },
+    "sort_options": {
+      "price_low": "Precio: Menor a Mayor",
+      "price_high": "Precio: Mayor a Menor",
+      "newest": "Más Recientes",
+      "popular": "Más Populares"
+    },
+    "song_card": {
+      "current_bid": "Puja Actual",
+      "time_left": "Tiempo Restante",
+      "bids": "pujas",
+      "view_auction": "Ver Subasta"
+    }
+  },
+  "song": {
+    "title": "Subasta de Canción",
+    "current_bid": "Puja Actual",
+    "your_bid": "Tu Puja",
+    "place_bid": "Hacer Puja",
+    "time_remaining": "Tiempo Restante",
+    "bid_history": "Historial de Pujas",
+    "song_info": "Información de la Canción",
+    "artist": "Artista",
+    "genre": "Género",
+    "duration": "Duración",
+    "language": "Idioma",
+    "mood": "Estado de Ánimo",
+    "description": "Descripción",
+    "license_type": "Tipo de Licencia",
+    "usage_rights": "Derechos de Uso",
+    "stats": {
+      "total_bids": "Total de Pujas",
+      "avg_increase": "Incremento Promedio",
+      "unique_bidders": "Pujadores Únicos",
+      "time_remaining": "Tiempo Restante"
+    },
+    "time_filters": {
+      "1h": "1 Hora",
+      "6h": "6 Horas",
+      "24h": "24 Horas",
+      "all": "Todo el Tiempo"
+    }
+  },
+  "account": {
+    "title": "Cuenta Personal",
+    "tabs": {
+      "bids": "Mis Pujas",
+      "purchases": "Mis Compras",
+      "lots": "Mis Lotes",
+      "settings": "Configuración"
+    },
+    "profile": {
+      "rating": "Calificación",
+      "total_bids": "Total de Pujas",
+      "successful_purchases": "Compras Exitosas",
+      "active_lots": "Lotes Activos",
+      "escrow_status": "Estado de Depósito",
+      "normal": "Normal",
+      "escrow": "Modo Depósito"
+    },
+    "settings": {
+      "language": "Idioma",
+      "notifications": "Notificaciones",
+      "password": "Cambiar Contraseña",
+      "current_password": "Contraseña Actual",
+      "new_password": "Nueva Contraseña",
+      "confirm_password": "Confirmar Contraseña",
+      "save_changes": "Guardar Cambios"
+    }
+  },
+  "about": {
+    "title": "Acerca del Proyecto",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Estamos revolucionando la industria de licencias musicales creando un mercado transparente, seguro y eficiente donde artistas, sellos discográficos y creadores de contenido pueden conectarse directamente."
+    },
+    "how_it_works": {
+      "title": "Cómo Funciona",
+      "step1": {
+        "title": "Explorar Catálogo",
+        "description": "Explora nuestra extensa colección de música de artistas talentosos de todo el mundo."
+      },
+      "step2": {
+        "title": "Hacer Pujas",
+        "description": "Participa en subastas en tiempo real para asegurar los derechos de tus pistas favoritas."
+      },
+      "step3": {
+        "title": "Asegurar Licencia",
+        "description": "Completa tu compra a través de nuestro sistema seguro de depósito y recibe derechos de licencia completos."
+      }
+    },
+    "contact": {
+      "title": "Información de Contacto",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "address": "Dirección"
+    }
+  },
+  "notifications": {
+    "title": "Notificaciones",
+    "filters": {
+      "all": "Todas",
+      "bids": "Pujas",
+      "purchases": "Compras",
+      "system": "Sistema"
+    },
+    "mark_all_read": "Marcar Todas como Leídas",
+    "no_notifications": "Aún no hay notificaciones"
+  },
+  "admin": {
+    "title": "Panel Administrativo",
+    "tabs": {
+      "users": "Gestión de Usuarios",
+      "auctions": "Monitoreo de Subastas",
+      "reports": "Reportes",
+      "moderation": "Moderación"
+    },
+    "users": {
+      "total_users": "Total de Usuarios",
+      "active_users": "Usuarios Activos",
+      "escrow_users": "Usuarios en Depósito",
+      "banned_users": "Usuarios Baneados",
+      "actions": {
+        "ban": "Banear Usuario",
+        "escrow": "Mover a Depósito",
+        "unban": "Desbanear Usuario",
+        "normal": "Volver a Normal"
+      }
+    },
+    "auctions": {
+      "active_auctions": "Subastas Activas",
+      "completed_today": "Completadas Hoy",
+      "total_revenue": "Ingresos Totales",
+      "avg_sale_price": "Precio Promedio de Venta"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Política de Privacidad",
+      "content": "Esta política de privacidad explica cómo recopilamos, usamos y protegemos tu información personal cuando usas nuestra plataforma de subastas musicales."
+    },
+    "terms": {
+      "title": "Términos de Servicio",
+      "content": "Al usar nuestra plataforma, aceptas estos términos y condiciones que rigen el uso de nuestros servicios de subastas musicales."
+    },
+    "offer": {
+      "title": "Oferta Pública",
+      "content": "Esta oferta pública describe los términos bajo los cuales proporcionamos nuestros servicios de licencias musicales y subastas a los usuarios."
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "save": "Guardar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "view": "Ver",
+    "close": "Cerrar",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "clear": "Limpiar",
+    "apply": "Aplicar",
+    "reset": "Restablecer"
+  }
+}

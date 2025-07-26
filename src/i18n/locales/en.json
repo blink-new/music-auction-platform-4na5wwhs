@@ -1,0 +1,241 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "about": "About",
+    "notifications": "Notifications",
+    "account": "Account",
+    "admin": "Admin",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero": {
+      "title": "The Future of Music Licensing",
+      "subtitle": "Discover, bid, and license premium music content from top artists and producers worldwide through our secure auction platform.",
+      "cta": "Explore Catalog",
+      "secondary_cta": "Learn More"
+    },
+    "features": {
+      "title": "Why Choose Our Platform",
+      "realtime": {
+        "title": "Real-time Bidding",
+        "description": "Participate in live auctions with instant updates and competitive bidding."
+      },
+      "secure": {
+        "title": "Secure Transactions",
+        "description": "Protected payments and rights management with escrow system."
+      },
+      "global": {
+        "title": "Global Marketplace",
+        "description": "Connect with artists, labels, and buyers from around the world."
+      }
+    },
+    "stats": {
+      "songs": "Songs Available",
+      "artists": "Active Artists",
+      "sales": "Successful Sales",
+      "countries": "Countries"
+    }
+  },
+  "catalog": {
+    "title": "Music Catalog",
+    "search_placeholder": "Search songs, genres, moods...",
+    "filters": {
+      "genre": "Genre",
+      "mood": "Mood",
+      "language": "Language",
+      "duration": "Duration",
+      "price_range": "Price Range",
+      "sort_by": "Sort by",
+      "clear_filters": "Clear Filters"
+    },
+    "genres": {
+      "pop": "Pop",
+      "rock": "Rock",
+      "jazz": "Jazz",
+      "classical": "Classical",
+      "electronic": "Electronic",
+      "hip_hop": "Hip Hop",
+      "country": "Country",
+      "blues": "Blues"
+    },
+    "moods": {
+      "energetic": "Energetic",
+      "calm": "Calm",
+      "dramatic": "Dramatic",
+      "romantic": "Romantic",
+      "mysterious": "Mysterious",
+      "uplifting": "Uplifting"
+    },
+    "sort_options": {
+      "price_low": "Price: Low to High",
+      "price_high": "Price: High to Low",
+      "newest": "Newest First",
+      "popular": "Most Popular"
+    },
+    "song_card": {
+      "current_bid": "Current Bid",
+      "time_left": "Time Left",
+      "bids": "bids",
+      "view_auction": "View Auction"
+    }
+  },
+  "song": {
+    "title": "Song Auction",
+    "current_bid": "Current Bid",
+    "your_bid": "Your Bid",
+    "place_bid": "Place Bid",
+    "time_remaining": "Time Remaining",
+    "bid_history": "Bid History",
+    "song_info": "Song Information",
+    "artist": "Artist",
+    "genre": "Genre",
+    "duration": "Duration",
+    "language": "Language",
+    "mood": "Mood",
+    "description": "Description",
+    "license_type": "License Type",
+    "usage_rights": "Usage Rights",
+    "stats": {
+      "total_bids": "Total Bids",
+      "avg_increase": "Avg Increase",
+      "unique_bidders": "Unique Bidders",
+      "time_remaining": "Time Remaining"
+    },
+    "time_filters": {
+      "1h": "1 Hour",
+      "6h": "6 Hours",
+      "24h": "24 Hours",
+      "all": "All Time"
+    }
+  },
+  "account": {
+    "title": "Personal Account",
+    "tabs": {
+      "bids": "My Bids",
+      "purchases": "My Purchases",
+      "lots": "My Lots",
+      "settings": "Settings"
+    },
+    "profile": {
+      "rating": "Rating",
+      "total_bids": "Total Bids",
+      "successful_purchases": "Successful Purchases",
+      "active_lots": "Active Lots",
+      "escrow_status": "Escrow Status",
+      "normal": "Normal",
+      "escrow": "Escrow Mode"
+    },
+    "settings": {
+      "language": "Language",
+      "notifications": "Notifications",
+      "password": "Change Password",
+      "current_password": "Current Password",
+      "new_password": "New Password",
+      "confirm_password": "Confirm Password",
+      "save_changes": "Save Changes"
+    }
+  },
+  "about": {
+    "title": "About the Project",
+    "mission": {
+      "title": "Our Mission",
+      "description": "We're revolutionizing the music licensing industry by creating a transparent, secure, and efficient marketplace where artists, labels, and content creators can connect directly."
+    },
+    "how_it_works": {
+      "title": "How It Works",
+      "step1": {
+        "title": "Browse Catalog",
+        "description": "Explore our extensive collection of music from talented artists worldwide."
+      },
+      "step2": {
+        "title": "Place Bids",
+        "description": "Participate in real-time auctions to secure the rights to your favorite tracks."
+      },
+      "step3": {
+        "title": "Secure License",
+        "description": "Complete your purchase through our secure escrow system and receive full licensing rights."
+      }
+    },
+    "contact": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    }
+  },
+  "notifications": {
+    "title": "Notifications",
+    "filters": {
+      "all": "All",
+      "bids": "Bids",
+      "purchases": "Purchases",
+      "system": "System"
+    },
+    "mark_all_read": "Mark All as Read",
+    "no_notifications": "No notifications yet"
+  },
+  "admin": {
+    "title": "Administrative Panel",
+    "tabs": {
+      "users": "User Management",
+      "auctions": "Auction Monitoring",
+      "reports": "Reports",
+      "moderation": "Moderation"
+    },
+    "users": {
+      "total_users": "Total Users",
+      "active_users": "Active Users",
+      "escrow_users": "Users in Escrow",
+      "banned_users": "Banned Users",
+      "actions": {
+        "ban": "Ban User",
+        "escrow": "Move to Escrow",
+        "unban": "Unban User",
+        "normal": "Return to Normal"
+      }
+    },
+    "auctions": {
+      "active_auctions": "Active Auctions",
+      "completed_today": "Completed Today",
+      "total_revenue": "Total Revenue",
+      "avg_sale_price": "Average Sale Price"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "content": "This privacy policy explains how we collect, use, and protect your personal information when you use our music auction platform."
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "content": "By using our platform, you agree to these terms and conditions that govern your use of our music auction services."
+    },
+    "offer": {
+      "title": "Public Offer",
+      "content": "This public offer outlines the terms under which we provide our music licensing and auction services to users."
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "clear": "Clear",
+    "apply": "Apply",
+    "reset": "Reset"
+  }
+}

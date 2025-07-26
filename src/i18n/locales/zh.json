@@ -1,0 +1,241 @@
+{
+  "nav": {
+    "home": "首页",
+    "catalog": "目录",
+    "about": "关于",
+    "notifications": "通知",
+    "account": "账户",
+    "admin": "管理",
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出"
+  },
+  "home": {
+    "hero": {
+      "title": "音乐授权的未来",
+      "subtitle": "通过我们安全的拍卖平台，发现、竞拍并授权来自全球顶级艺术家和制作人的优质音乐内容。",
+      "cta": "探索目录",
+      "secondary_cta": "了解更多"
+    },
+    "features": {
+      "title": "为什么选择我们的平台",
+      "realtime": {
+        "title": "实时竞拍",
+        "description": "参与实时拍卖，享受即时更新和竞争性竞拍。"
+      },
+      "secure": {
+        "title": "安全交易",
+        "description": "受保护的支付和权利管理，配备托管系统。"
+      },
+      "global": {
+        "title": "全球市场",
+        "description": "与来自世界各地的艺术家、唱片公司和买家建立联系。"
+      }
+    },
+    "stats": {
+      "songs": "可用歌曲",
+      "artists": "活跃艺术家",
+      "sales": "成功销售",
+      "countries": "国家"
+    }
+  },
+  "catalog": {
+    "title": "音乐目录",
+    "search_placeholder": "搜索歌曲、流派、情绪...",
+    "filters": {
+      "genre": "流派",
+      "mood": "情绪",
+      "language": "语言",
+      "duration": "时长",
+      "price_range": "价格范围",
+      "sort_by": "排序方式",
+      "clear_filters": "清除筛选"
+    },
+    "genres": {
+      "pop": "流行",
+      "rock": "摇滚",
+      "jazz": "爵士",
+      "classical": "古典",
+      "electronic": "电子",
+      "hip_hop": "嘻哈",
+      "country": "乡村",
+      "blues": "蓝调"
+    },
+    "moods": {
+      "energetic": "充满活力",
+      "calm": "平静",
+      "dramatic": "戏剧性",
+      "romantic": "浪漫",
+      "mysterious": "神秘",
+      "uplifting": "振奋人心"
+    },
+    "sort_options": {
+      "price_low": "价格：从低到高",
+      "price_high": "价格：从高到低",
+      "newest": "最新优先",
+      "popular": "最受欢迎"
+    },
+    "song_card": {
+      "current_bid": "当前出价",
+      "time_left": "剩余时间",
+      "bids": "出价",
+      "view_auction": "查看拍卖"
+    }
+  },
+  "song": {
+    "title": "歌曲拍卖",
+    "current_bid": "当前出价",
+    "your_bid": "您的出价",
+    "place_bid": "出价",
+    "time_remaining": "剩余时间",
+    "bid_history": "出价历史",
+    "song_info": "歌曲信息",
+    "artist": "艺术家",
+    "genre": "流派",
+    "duration": "时长",
+    "language": "语言",
+    "mood": "情绪",
+    "description": "描述",
+    "license_type": "许可类型",
+    "usage_rights": "使用权",
+    "stats": {
+      "total_bids": "总出价数",
+      "avg_increase": "平均增幅",
+      "unique_bidders": "独特竞拍者",
+      "time_remaining": "剩余时间"
+    },
+    "time_filters": {
+      "1h": "1小时",
+      "6h": "6小时",
+      "24h": "24小时",
+      "all": "全部时间"
+    }
+  },
+  "account": {
+    "title": "个人账户",
+    "tabs": {
+      "bids": "我的出价",
+      "purchases": "我的购买",
+      "lots": "我的拍品",
+      "settings": "设置"
+    },
+    "profile": {
+      "rating": "评级",
+      "total_bids": "总出价数",
+      "successful_purchases": "成功购买",
+      "active_lots": "活跃拍品",
+      "escrow_status": "托管状态",
+      "normal": "正常",
+      "escrow": "托管模式"
+    },
+    "settings": {
+      "language": "语言",
+      "notifications": "通知",
+      "password": "更改密码",
+      "current_password": "当前密码",
+      "new_password": "新密码",
+      "confirm_password": "确认密码",
+      "save_changes": "保存更改"
+    }
+  },
+  "about": {
+    "title": "关于项目",
+    "mission": {
+      "title": "我们的使命",
+      "description": "我们正在通过创建一个透明、安全、高效的市场来革命化音乐授权行业，让艺术家、唱片公司和内容创作者能够直接联系。"
+    },
+    "how_it_works": {
+      "title": "工作原理",
+      "step1": {
+        "title": "浏览目录",
+        "description": "探索我们来自世界各地才华横溢的艺术家的广泛音乐收藏。"
+      },
+      "step2": {
+        "title": "参与竞拍",
+        "description": "参与实时拍卖，获得您喜爱曲目的权利。"
+      },
+      "step3": {
+        "title": "获得许可",
+        "description": "通过我们安全的托管系统完成购买，获得完整的许可权利。"
+      }
+    },
+    "contact": {
+      "title": "联系信息",
+      "email": "电子邮件",
+      "phone": "电话",
+      "address": "地址"
+    }
+  },
+  "notifications": {
+    "title": "通知",
+    "filters": {
+      "all": "全部",
+      "bids": "出价",
+      "purchases": "购买",
+      "system": "系统"
+    },
+    "mark_all_read": "标记全部为已读",
+    "no_notifications": "暂无通知"
+  },
+  "admin": {
+    "title": "管理面板",
+    "tabs": {
+      "users": "用户管理",
+      "auctions": "拍卖监控",
+      "reports": "报告",
+      "moderation": "审核"
+    },
+    "users": {
+      "total_users": "总用户数",
+      "active_users": "活跃用户",
+      "escrow_users": "托管用户",
+      "banned_users": "被禁用户",
+      "actions": {
+        "ban": "禁用用户",
+        "escrow": "移至托管",
+        "unban": "解禁用户",
+        "normal": "恢复正常"
+      }
+    },
+    "auctions": {
+      "active_auctions": "活跃拍卖",
+      "completed_today": "今日完成",
+      "total_revenue": "总收入",
+      "avg_sale_price": "平均售价"
+    }
+  },
+  "legal": {
+    "privacy": {
+      "title": "隐私政策",
+      "content": "本隐私政策解释了当您使用我们的音乐拍卖平台时，我们如何收集、使用和保护您的个人信息。"
+    },
+    "terms": {
+      "title": "服务条款",
+      "content": "通过使用我们的平台，您同意这些管理您使用我们音乐拍卖服务的条款和条件。"
+    },
+    "offer": {
+      "title": "公开要约",
+      "content": "本公开要约概述了我们向用户提供音乐授权和拍卖服务的条款。"
+    }
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "confirm": "确认",
+    "save": "保存",
+    "edit": "编辑",
+    "delete": "删除",
+    "view": "查看",
+    "close": "关闭",
+    "next": "下一个",
+    "previous": "上一个",
+    "search": "搜索",
+    "filter": "筛选",
+    "sort": "排序",
+    "clear": "清除",
+    "apply": "应用",
+    "reset": "重置"
+  }
+}
